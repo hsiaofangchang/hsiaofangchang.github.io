@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Puyang Zhao"
+title                    : "Hsiao-fang Chang"
 title_separator          : "-"
-name                     : &name "Puyang Zhao"
+name                     : &name "Hsiao-fang Chang"
 description              : &description "personal description"
-url                      : https://puyangzhao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hsiaofangchang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "puyangzhao.github.io"
+repository               : "hsiaofangchang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Puyang Zhao"
-  avatar           : "Weixin Image_20240827133404.jpg"
-  bio              : "Ph.D. student in Biostatistics and Data Science at The University of Texas Health Science Center at Houston"
-  location         : "TX, USA"
+  name             : "Hsiao-fang Chang"
+  avatar           : "zxfoot.jpg"
+  bio              : "Ph.D. student in Critical Disability Studies, University of Sheffield"
+  location         : "Sheffield, England"
   employer         :
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=UeUkeiIAAAAJ"
-  email            : puyang.zhao@uth.tmc.edu
-  researchgate     : "https://www.researchgate.net/profile/Puyang-Zhao"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=UeUkeiIAAAAJ"
+  email            : zxfootchang@gmail.com
+  researchgate     : "https://www.researchgate.net/profile/Hsiao-Fang-Chang"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "puyangzhao"
+  github           : "hsiaofangchang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "puyang-zhao-24343b191/"
-  orcid            : "https://orcid.org/0009-0002-8660-4835"
+  linkedin         : "hsiao-fang-chang/"
+  orcid            : "https://orcid.org/0009-0009-2329-2353"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
