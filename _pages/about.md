@@ -1,4 +1,3 @@
----
 permalink: /
 title: ""
 author_profile: true
@@ -6,39 +5,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-# Welcome to Puyang's Personal Websites! 🚀
-
-# 👋 Hello, I'm Puyang!
-
+# Welcome to HSIAO-FANG's Personal Website! 🚀
+# 👋 Hello!
 ## 🎓 Academic Journey
-- Ph.D. student in Biostatistics and Data Science, UT Health Science Center at Houston
-- M.Sc. in Mathematics and Statistics, University of Melbourne
+- Ph.D. student in Critical Disability Studies, University of Sheffield (Oct 2023 - Present)
+- M.Ed. in Education, University of Melbourne (Feb 2020 - Dec 2020)
+- B.Ed. in Special Education, Beijing Normal University (Sep 2015 - Jun 2019)
 
-I am currently a Research Assistant (RA) and Teaching Assistant (TA) at UTHealth, focusing on tobacco control research. My academic journey includes ongoing Ph.D. studies in Biostatistics and Data Science at UT Health Science Center at Houston, preceded by an M.Sc. in Mathematics and Statistics from the University of Melbourne.
+I am currently a Ph.D. Researcher in Critical Disability Studies at the School of Education, University of Sheffield. My academic journey includes ongoing doctoral studies, preceded by a Master's degree in Education from the University of Melbourne and a Bachelor's degree in Special Education from Beijing Normal University.
 
 ## 🔬 Research Interests
-
-My research interests span a wide range of areas in biostatistics and data science, with a particular focus on applications in public health and tobacco control:
-
-- Analysis of data from wearable devices
-- Longitudinal & EMA (Ecological Momentary Assessment) data analysis
-- Multivariate analysis and time series analysis
-- Machine learning applications in health research
-- Spatial statistics and Bayesian computation
-- E-cigarette and tobacco use behaviors
-- Environmental health impacts
+My research interests span a wide range of areas in Critical Disability Studies and Education:
+- Critical Disability Studies
+- Special Education
+- Inclusive Education
+- Disability Rights and Advocacy
+- Educational Policy and Reform
+- Qualitative Research Methods in Education
 
 ## 📬 Contact
-
 Feel free to reach out if you're interested in collaborating or have any questions about my research:
-
-Email: Puyang.Zhao@uth.tmc.edu
-
-<div id="globe-container" style="width: 270px; height: 270px; overflow: hidden; position: relative;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=clIdEPFSxTObYL5YCT6KPfejmqi13_-8ETks5Uwv8eQ"></script>
-</div>
+Email: hfchanghf@gmail.com
 
 ---
-
-*Last updated: August 2024*
+*Last updated: September 2024*
